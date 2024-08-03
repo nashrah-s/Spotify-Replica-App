@@ -3,7 +3,6 @@
 ## Description
 A full-stack application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Tailwind CSS for styling. This project includes a user-facing frontend, a backend server, and an admin panel for managing the application.
 
-![Spotify Clone]("C:\Users\nashr_lt3jaey\Downloads\Screenshot 2024-08-01 233635.png")
 
 ## Prerequisites
 Ensure you have Node.js installed on your machine.
@@ -17,7 +16,7 @@ Ensure you have Node.js installed on your machine.
 ## Getting Started
 
 ### 1. Download and Setup
-- Download all the project files into one folder.
+- Download all the project files into one folder. (Except Project Screenshots) 
 - Open that folder in Visual Studio Code (VS Code).
 
 ### 2. Setting Up the Backend
